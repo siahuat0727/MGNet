@@ -1,6 +1,12 @@
 # Multi-Glimpse Network
 
-Our code requires Python ≥ 3.8
+Multi-Glimpse Network: A Robust and Efficient Classification Architecture based on Recurrent Downsampled Attention
+
+[arXiv](https://arxiv.org/abs/2111.02018)
+
+## Requirements
+
+Python ≥ 3.8
 
 ## Installation
 
